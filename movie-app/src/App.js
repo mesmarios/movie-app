@@ -1,5 +1,5 @@
-import "./App.css";
+import Rom from "./rom.js";
 
 export default function App() {
-  return <div>Hello</div>;
+  return <Rom />;
 }
