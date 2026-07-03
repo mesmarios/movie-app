@@ -1,5 +1,11 @@
 import Header from "./header.js";
+import Search from "./search.js";
 
 export default function App() {
-  return <Header />;
+  return (
+    <div>
+      <Search />
+      <Header />
+    </div>
+  );
 }
