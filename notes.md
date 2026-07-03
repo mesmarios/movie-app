@@ -1,6 +1,8 @@
 # Movie Reviews App — Πλάνο Υλοποίησης
 
-**Stack:** React (UI) + Node.js/Express (Backend) + MySQL (DB)
+**Stack:** (React (UI)+ typescript) + Node.js/Express (Backend) + MySQL (DB)
+
+mporoume na xrisimopoihsoume redux gia state management
 
 ## Η Λογική της Εφαρμογής
 
