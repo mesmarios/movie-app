@@ -13,7 +13,7 @@ export default function App() {
   }
 
   return (
-    <div className="Center">
+    <div >
       <form onSubmit={handleSubmit}>
         <input name="query" />
         <button type="submit">Search </button>
