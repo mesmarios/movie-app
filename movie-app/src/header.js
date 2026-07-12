@@ -2,13 +2,12 @@ import "./App.css";
 import Search from "./search";
 import React from 'react';
 import "./Header.css";
+import Clickable from "./clickable";
 
 
 
 
-function Clickable() {
-  return <button>⮟</button>;
-}
+
 export default function App() {
   return (
   <header className='header'>
